@@ -1,0 +1,68 @@
+2006-11-06 15:44:17 304: 
+
+2006-11-06 15:44:17 304: ******** Process C:\Development\Annuals Robot\AnnRobot.exe is created on 11/6/2006 at 11:56:27 PM; size = 425984; version = 7.0000
+2006-11-06 15:44:17 304: Module C:\Development\Annuals Robot\AnnRobot.exe is loaded at 0x00400000 - 0x00469FFF; created on 11/6/2006 at  1:56:27 PM; size = 425984
+2006-11-06 15:44:17 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OMDAPI.dll is loaded at 0x01E00000 - 0x01F05FFF; created on 6/23/2005 at  7:52:29 PM; size = 1069103
+2006-11-06 15:44:17 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\FORMAPI.dll is loaded at 0x01F10000 - 0x01F1EFFF; created on 6/23/2005 at  7:46:17 PM; size = 61488
+2006-11-06 15:44:17 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OSL.dll is loaded at 0x01F20000 - 0x01F42FFF; created on 5/25/2005 at  6:47:25 AM; size = 102444
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\IDXAPI.dll is loaded at 0x01F50000 - 0x01F5CFFF; created on 6/23/2005 at  7:46:46 PM; size = 53295
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\NETWORK.dll is loaded at 0x01F60000 - 0x01F6CFFF; created on 6/23/2005 at  7:46:22 PM; size = 53296
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\NETPSS.dll is loaded at 0x01F70000 - 0x01F77FFF; created on 6/23/2005 at  7:46:23 PM; size = 32815
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\LOG.dll is loaded at 0x01F80000 - 0x01F92FFF; created on 6/23/2005 at  7:46:41 PM; size = 69676
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\WSL.dll is loaded at 0x01FA0000 - 0x01FA7FFF; created on 4/29/2005 at  7:35:18 PM; size = 32812
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\UTSRV.dll is loaded at 0x01FB0000 - 0x01FBAFFF; created on 6/23/2005 at  7:46:15 PM; size = 45102
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\SECAPI.dll is loaded at 0x01FC0000 - 0x01FC9FFF; created on 6/23/2005 at  7:48:31 PM; size = 41007
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OBJAPI.dll is loaded at 0x01FD0000 - 0x01FF2FFF; created on 6/23/2005 at  7:47:02 PM; size = 143407
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\QUEAPI.dll is loaded at 0x02000000 - 0x02012FFF; created on 6/23/2005 at  7:46:34 PM; size = 77871
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\RPTAPI.dll is loaded at 0x02020000 - 0x0202AFFF; created on 6/23/2005 at  7:46:31 PM; size = 45103
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OTPDCORE.dll is loaded at 0x02030000 - 0x0203BFFF; created on 6/23/2005 at  7:46:57 PM; size = 49201
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OTPDUAL.dll is loaded at 0x02040000 - 0x02047FFF; created on 6/23/2005 at  7:46:56 PM; size = 32816
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OTPRELST.dll is loaded at 0x02050000 - 0x02057FFF; created on 6/23/2005 at  7:46:56 PM; size = 32817
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\INFF.dll is loaded at 0x02060000 - 0x02069FFF; created on 6/23/2005 at  7:47:07 PM; size = 41005
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\accuimr5.dll is loaded at 0x02070000 - 0x020BAFFF; created on 3/7/1996 at  5:56:29 AM; size = 261120
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\MOFDLL.dll is loaded at 0x020C0000 - 0x020CBFFF; created on 6/23/2005 at  7:47:52 PM; size = 45103
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OLECONT.dll is loaded at 0x020D0000 - 0x020E1FFF; created on 12/8/2004 at 12:39:14 AM; size = 73776
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\OMDBASE.dll is loaded at 0x020F0000 - 0x02116FFF; created on 6/23/2005 at  7:48:49 PM; size = 151600
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\EXPTSUPP.dll is loaded at 0x02120000 - 0x02127FFF; created on 6/23/2005 at  7:48:33 PM; size = 32817
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\strcome.dll is loaded at 0x02270000 - 0x02280FFF; created on 5/16/2004 at 10:08:44 PM; size = 69680
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\strcomi.dll is loaded at 0x02390000 - 0x0239AFFF; created on 12/8/2004 at 12:33:26 AM; size = 45104
+2006-11-06 15:44:18 304: Module C:\PROGRA~1\EISTRE~1\CLIENT~1\BIN\docres.dll is loaded at 0x023A0000 - 0x023D8FFF; created on 5/16/2004 at 10:14:57 PM; size = 233519
+2006-11-06 15:44:18 304: Module C:\Program Files\eiStream Enterprise\Client Components\BIN\calin.dll is loaded at 0x10000000 - 0x10087FFF; created on 7/5/2005 at  6:11:33 PM; size = 557102
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\MSVCRT20.dll is loaded at 0x6A910000 - 0x6A954FFF; created on 11/29/1999 at 11:33:37 PM; size = 253952
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\MSVBVM60.DLL is loaded at 0x6A9D0000 - 0x6AB23FFF; created on 6/19/2003 at  4:44:08 PM; size = 1385744
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\scrrun.dll is loaded at 0x6B800000 - 0x6B824FFF; created on 6/26/2001 at  1:39:40 PM; size = 151601
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\SHLWAPI.DLL is loaded at 0x70BD0000 - 0x70C34FFF; created on 8/29/2002 at  4:13:06 AM; size = 395264
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\COMCTL32.DLL is loaded at 0x71710000 - 0x71793FFF; created on 8/29/2002 at  4:13:07 AM; size = 529680
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\asycfilt.dll is loaded at 0x749A0000 - 0x749C4FFF; created on 6/19/2003 at  4:43:49 PM; size = 143632
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\oledlg.dll is loaded at 0x752F0000 - 0x7530EFFF; created on 12/7/1999 at  2:42:19 PM; size = 118032
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\LZ32.DLL is loaded at 0x759B0000 - 0x759B5FFF; created on 6/19/2003 at  4:43:46 PM; size = 10000
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\comdlg32.dll is loaded at 0x76B30000 - 0x76B6DFFF; created on 6/19/2003 at  4:43:43 PM; size = 241424
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\CLBCATQ.DLL is loaded at 0x775A0000 - 0x77625FFF; created on 6/19/2003 at  4:43:40 PM; size = 510224
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\VERSION.DLL is loaded at 0x77820000 - 0x77826FFF; created on 6/19/2003 at  4:43:41 PM; size = 16144
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\OLEAUT32.dll is loaded at 0x779B0000 - 0x77A4AFFF; created on 6/19/2003 at  4:43:41 PM; size = 626960
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\ole32.dll is loaded at 0x77A50000 - 0x77B46FFF; created on 6/19/2003 at  4:43:41 PM; size = 996112
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\RPCRT4.DLL is loaded at 0x77D30000 - 0x77DA0FFF; created on 6/19/2003 at  4:43:40 PM; size = 454416
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\USER32.dll is loaded at 0x77E10000 - 0x77E74FFF; created on 6/19/2003 at  4:43:40 PM; size = 403216
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\GDI32.DLL is loaded at 0x77F40000 - 0x77F7BFFF; created on 6/19/2003 at  4:43:40 PM; size = 233744
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\ntdll.dll is loaded at 0x77F80000 - 0x77FFAFFF; created on 6/19/2003 at  4:43:40 PM; size = 491792
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\MSVCRT.dll is loaded at 0x78000000 - 0x78044FFF; created on 3/11/2003 at  8:55:17 AM; size = 286773
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\MSVCIRT.dll is loaded at 0x780A0000 - 0x780B1FFF; created on 9/29/1999 at  3:52:38 PM; size = 77878
+2006-11-06 15:44:18 304: Module C:\Program Files\eiStream Enterprise\Client Components\BIN\MSVCP60.dll is loaded at 0x780C0000 - 0x78120FFF; created on 6/17/1998 at  8:52:10 AM; size = 401462
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\SHELL32.DLL is loaded at 0x782F0000 - 0x78537FFF; created on 6/19/2003 at  4:43:41 PM; size = 2383632
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\ADVAPI32.dll is loaded at 0x7C2D0000 - 0x7C331FFF; created on 6/19/2003 at  4:43:40 PM; size = 387344
+2006-11-06 15:44:18 304: Module C:\WINNT\system32\KERNEL32.dll is loaded at 0x7C4E0000 - 0x7C598FFF; created on 6/19/2003 at  4:43:40 PM; size = 743184
+2006-11-06 15:44:18 304: TCP Configuration:  MaxUserPort = 5000
+2006-11-06 15:44:18 304: TCP Configuration:  TcpTimedWaitDelay = 240
+2006-11-06 15:44:18 304: Generated unique name a720e32 from IP address 10.114.14.50, name dcca-robot-t.
+2006-11-06 15:44:18 304: NetBeginSession SUCCEEDED 1 times on initial call.
+
+2006-11-06 15:44:18 304: NetBeginSession SUCCEEDED 0 time(s) on RETRY # 1.
+
+2006-11-06 15:44:18 304: NetBeginSession SUCCEEDED 0 time(s) on RETRY # 2.
+
+2006-11-06 15:44:18 304: NetBeginSession SUCCEEDED 0 time(s) on RETRY # 3.
+
+2006-11-06 15:44:18 304: NetBeginSession FAILED    0 times after 3 RETRIES.
+
+2006-11-06 15:44:18 304: The desktop list has been successfully retrieved.
+

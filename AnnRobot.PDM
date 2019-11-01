@@ -1,0 +1,131 @@
+[Root]
+Most Recent Package=Annuals Robot Setup
+
+[Package|Annuals Robot Setup|AnnRobot]
+Icon1=AnnRobot.exe
+Title1=AnnRobot
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Annuals Robot Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Development\Annuals Robot\Install
+
+[Package|Annuals Robot Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Annuals Robot Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Annuals Robot Setup|Files Found]
+
+[Package|Annuals Robot Setup|Files Released]
+
+[Package|Annuals Robot Setup|Missing Dependency Information]
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\Program Files\ESWM\Client Components\BIN\cal.tlb=
+C:\Program Files\Imaging\Imgedit.ocx=
+C:\Program Files\Imaging\Imgadmin.ocx=
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+C:\Program Files\eiStream Enterprise\Client Components\BIN\cal.tlb=
+C:\Program Files\eiStream Enterprise\WorkDesk\Bin\Mscomct2.ocx=
+C:\Program Files\eiStream Enterprise\WorkDesk\Bin\Mscomctl.ocx=
+
+[Package|Annuals Robot Setup|Out-of-Date Dependency Information]
+C:\WINNT\system32\scrrun.dll=
+
+[Package|Annuals Robot Setup|Files Added]
+
+[Package|Annuals Robot Setup|Files Removed]
+c:\program files\eswm\client components\bin\cal.tlb=
+c:\program files\imaging professional\imgadmin.ocx=
+c:\program files\imaging professional\imgedit.ocx=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\winnt\system32\msvcrt.dll=
+c:\winnt\system32\scrrun.dll=
+c:\program files\eistream enterprise\client components\bin\cal.tlb=
+c:\program files\imaging\imgadmin.ocx=
+c:\program files\imaging\imgedit.ocx=
+c:\winnt\system32\mscomct2.ocx=
+c:\winnt\system32\mscomctl.ocx=
+c:\program files\common files\system\ado\msado26.tlb=
+
+[Package|Annuals Robot Setup|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\scrrun.dll=No
+C:\WINNT\system32\msvcrt.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Development\Annuals Robot\AnnRobot.exe=Yes
+C:\Program Files\eiStream Enterprise\Client Components\BIN\cal.tlb=No
+C:\Program Files\Imaging\Imgadmin.ocx=No
+C:\Program Files\Imaging\Imgedit.ocx=No
+C:\WINNT\system32\MSCOMCTL.OCX=No
+C:\WINNT\system32\MSCOMCT2.OCX=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Annuals Robot Setup|Configure Registry Files]
+Applicable=No
+
+[Package|Annuals Robot Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|Annuals Robot Setup|Install Locations]
+C:\CutOver\VB\AutoAnnuals4.2\AnnRobot.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Development\Annuals Robot\AnnRobot.exe=$(AppPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\Program Files\eiStream Enterprise\WorkDesk\Bin\Mscomctl.ocx=$(WinSysPath)
+C:\Program Files\eiStream Enterprise\WorkDesk\Bin\Mscomct2.ocx=$(WinSysPath)
+
+[Package|Annuals Robot Setup|Configure Shared Files]
+Applicable=Yes
+C:\CutOver\VB\AutoAnnuals4.2\AnnRobot.exe=No
+C:\Development\Annuals Robot\AnnRobot.exe=No
+
+[Package|Annuals Robot Setup|Distribution]
+Type=single
+Size=
+Title=AnnRobot
+
+[Package|Annuals Robot Setup|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Annuals Robot Setup|$(Programs)]
+Icon1=AnnRobot.exe
+Title1=Icon2
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Annuals Robot Setup|Package]
+PackageFolder=C:\Development\Annuals Robot\Install
+ProjectFolder=C:\Development\Annuals Robot
+ServerSideCab=
+File1=C:\Development\Annuals Robot\Install\setup.exe
+File2=C:\Development\Annuals Robot\Install\Setup.Lst
+File3=C:\Development\Annuals Robot\Install\AnnRobot.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
